@@ -1,0 +1,30 @@
+.showtext {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid rgb(134, 109, 109);
+    box-shadow: 2px 2px 4px rgb(128, 233, 128);
+    text-align: center;
+}
+.maindiv{
+    height: 30px;
+    padding: 50px; 
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+    width: 30%;
+    box-shadow: 4px 4px 5px blueviolet;
+}
+label{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+input{
+    height: 20px;
+    width: 200px;
+    margin-left: 5px;
+}
+input:hover{
+    box-shadow: 2px 2px 5px blue;
+    border-color: rgb(247, 114, 114);
+}
