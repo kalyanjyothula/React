@@ -1,0 +1,29 @@
+.first{
+    margin:60px 370px 20px 370px;
+    padding: 10px 0px 40px 0px;
+    border: 2px solid grey;
+    text-align: center;
+}
+input{
+    margin-top:20px;
+    margin-left: 10px;
+    align-content: center;
+}
+label{
+    display: inline-block;
+    text-align: left;
+}
+.first h1{
+    text-shadow: 2px 2px 4px whitesmoke;
+}
+button{
+    margin-top: 40px;
+    margin-left: 70px;
+    padding: 10px 25px;
+    color: whitesmoke;
+    font-weight: bold;
+    background: linear-gradient(rgb(131, 78, 216),rgb(132, 181, 236));
+}
+button:hover{
+    background: linear-gradient(rgb(83, 234, 240),rgb(64, 127, 199));
+}
