@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+.INN{
+    margin-left: 350px;
+    margin-right: auto;
+}
+input{
+    height: 40px;
+    width: 650px;
+    font-size: 20px;
+    border-radius: 2px;
+    padding-left: 8px;
+}
+.desc{
+    border-radius: 2px;
+    border: 1px solid gray;
+    width: 650px;
+    padding-left: 20px;
+}
+h4{
+    margin-bottom: 1px;
+    font-size: 18px;
+}
+p{
+    margin-top: 4px;
+    font-size: 13px;
+    margin-top: 0px;
+}
+span{
+    text-align: center;
+    float:right;
+
+}
+.nh{
+    float: left;
+}
+.add{
+    float: left;
+    margin-right: 300px;
+    clear:both;
+}
+.sub{
+    float:right;  
+    position: absolute;
+    top:160px; 
+    left: 700px;
+    width: 600px;
+}
